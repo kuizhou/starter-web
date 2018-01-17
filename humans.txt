@@ -5,6 +5,9 @@
 
     <name> -- <role> -- <twitter>
 
+## How to contribute
+    xxxx
+    
 # THANKS
 
     <name>
