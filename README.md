@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 #introduction
 this is a demo program for learning git
+
+#purpose
+learning git
