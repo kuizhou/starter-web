@@ -15,3 +15,6 @@ this is a demo program for learning git
 
 #purpose
 learning git
+
+##Copyright
+Mr bobby.zhou
