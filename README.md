@@ -19,4 +19,4 @@ this is a demo program for learning git
 learning git
 
 ##Copyright
-Mr bobby.zhou
+kuizhou all rights reserved
